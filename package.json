@@ -12,7 +12,10 @@
     "authentication",
     "login"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "md5": "^2.2.1",
+    "simple-sha1": "^2.0.8"
+  },
   "devDependencies": {
     "mongoose": "3.4.x",
     "mocha": "1.7.x"
